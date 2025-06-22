@@ -6,41 +6,43 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/wvkbd?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/wvkbd?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/wvkbd?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/iruzo/wvkbd/stargazers"><img src="https://img.shields.io/github/stars/iruzo/wvkbd?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/iruzo/wvkbd/issues"><img src="https://img.shields.io/github/issues/iruzo/wvkbd?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/iruzo/wvkbd/contributors"><img src="https://img.shields.io/github/contributors/iruzo/wvkbd?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/wvkbd/main/assets/preview.webp"/>
+	<img src="./assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/wvkbd/main/assets/wvkbd-frappe.png"/>
+<img src="./assets/wvkbd-frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/wvkbd/main/assets/wvkbd-macchiato.png"/>
+<img src="./assets/wvkbd-macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/wvkbd/main/assets/wvkbd-mocha.png"/>
+<img src="./assets/wvkbd-mocha.png"/>
 </details>
 
 ## Usage
 
 1. Replace in your config.h the color schemes with one of those:
-- [Frappe](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-frappe.h)
-- [Macchiato](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-macchiato.h)
-- [Mocha](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-mocha.h)
+
+-   [Frappe](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-frappe.h)
+-   [Macchiato](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-macchiato.h)
+-   [Mocha](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-mocha.h)
+
 2. Compile wvkbd.
 
 ## 💝 Thanks to
 
-- [Iván Ruzo](https://github.com/iruzo)
+-   [Iván Ruzo](https://github.com/iruzo)
 
 &nbsp;
 
