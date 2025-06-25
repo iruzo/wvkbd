@@ -34,15 +34,15 @@
 
 1. Replace in your config.h the color schemes with one of those:
 
--   [Frappe](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-frappe.h)
--   [Macchiato](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-macchiato.h)
--   [Mocha](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-mocha.h)
+- [Frappe](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-frappe.h)
+- [Macchiato](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-macchiato.h)
+- [Mocha](https://github.com/catppuccin/wvkbd/blob/main/wvkbd-mocha.h)
 
 2. Compile wvkbd.
 
 ## 💝 Thanks to
 
--   [Iván Ruzo](https://github.com/iruzo)
+- [Iván Ruzo](https://github.com/iruzo)
 
 &nbsp;
 
